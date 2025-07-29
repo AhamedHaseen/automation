@@ -1,0 +1,201 @@
+{
+  "services": {
+    "process_automation": {
+      "title": "Process Automation",
+      "description": "Streamline repetitive tasks and workflows",
+      "features": [
+        "Workflow Design & Implementation",
+        "Task Scheduling & Monitoring",
+        "Integration with Existing Systems",
+        "Real-time Process Analytics",
+        "Compliance & Audit Trails"
+      ],
+      "benefits": [
+        "95% reduction in processing time",
+        "99.9% accuracy improvement",
+        "60% cost savings",
+        "24/7 automated operations"
+      ]
+    },
+    "data_analytics": {
+      "title": "Data Analytics Automation",
+      "description": "Transform raw data into actionable insights",
+      "features": [
+        "Automated Data Collection",
+        "Real-time Dashboard Creation",
+        "Predictive Analytics",
+        "Custom Report Generation",
+        "Machine Learning Integration"
+      ],
+      "benefits": [
+        "80% faster insights generation",
+        "Real-time decision making",
+        "Predictive accuracy of 92%",
+        "Automated reporting"
+      ]
+    },
+    "cloud_integration": {
+      "title": "Cloud Integration Services",
+      "description": "Seamless cloud automation and management",
+      "features": [
+        "Multi-Cloud Management",
+        "API Integration & Management",
+        "Cloud Security Automation",
+        "Disaster Recovery Automation",
+        "Cost Optimization Tools"
+      ],
+      "benefits": [
+        "40% reduction in cloud costs",
+        "99.99% uptime guarantee",
+        "Automated scaling",
+        "Enhanced security"
+      ]
+    }
+  },
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "company": "TechCorp Industries",
+      "position": "CTO",
+      "message": "AutoMate Pro transformed our operations completely. We've seen a 300% increase in productivity.",
+      "rating": 5,
+      "image": "https://via.placeholder.com/100x100"
+    },
+    {
+      "name": "Michael Chen",
+      "company": "DataFlow Solutions",
+      "position": "Operations Manager",
+      "message": "The automation solutions are game-changing. Our manual processes are now fully automated.",
+      "rating": 5,
+      "image": "https://via.placeholder.com/100x100"
+    },
+    {
+      "name": "Emily Rodriguez",
+      "company": "CloudFirst Inc",
+      "position": "IT Director",
+      "message": "Outstanding support and implementation. The ROI was evident within the first month.",
+      "rating": 5,
+      "image": "https://via.placeholder.com/100x100"
+    }
+  ],
+  "stats": {
+    "clients_served": 500,
+    "processes_automated": 10000,
+    "time_saved_hours": 2500000,
+    "cost_reduction_percent": 65,
+    "uptime_percent": 99.9,
+    "customer_satisfaction": 98
+  },
+  "industries": [
+    {
+      "name": "Manufacturing",
+      "icon": "fas fa-industry",
+      "automation_areas": [
+        "Production Line Automation",
+        "Quality Control Systems",
+        "Inventory Management",
+        "Supply Chain Optimization",
+        "Predictive Maintenance"
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "icon": "fas fa-hospital",
+      "automation_areas": [
+        "Patient Management Systems",
+        "Medical Records Automation",
+        "Appointment Scheduling",
+        "Billing & Insurance Processing",
+        "Compliance Monitoring"
+      ]
+    },
+    {
+      "name": "Finance",
+      "icon": "fas fa-university",
+      "automation_areas": [
+        "Transaction Processing",
+        "Risk Assessment",
+        "Compliance Reporting",
+        "Fraud Detection",
+        "Customer Onboarding"
+      ]
+    },
+    {
+      "name": "Retail",
+      "icon": "fas fa-shopping-cart",
+      "automation_areas": [
+        "Customer Service Bots",
+        "Inventory Tracking",
+        "Sales Analytics",
+        "Order Processing",
+        "Marketing Automation"
+      ]
+    }
+  ],
+  "automation_types": {
+    "rpa": {
+      "name": "Robotic Process Automation",
+      "description": "Software robots that mimic human actions",
+      "use_cases": [
+        "Data entry and extraction",
+        "Form processing",
+        "System integration",
+        "Report generation"
+      ]
+    },
+    "ai_ml": {
+      "name": "AI & Machine Learning",
+      "description": "Intelligent automation using AI algorithms",
+      "use_cases": [
+        "Predictive analytics",
+        "Natural language processing",
+        "Computer vision",
+        "Decision making"
+      ]
+    },
+    "workflow": {
+      "name": "Workflow Automation",
+      "description": "Streamlined business process flows",
+      "use_cases": [
+        "Approval processes",
+        "Task routing",
+        "Notification systems",
+        "Document management"
+      ]
+    }
+  },
+  "pricing": {
+    "starter": {
+      "name": "Starter",
+      "price": 999,
+      "features": [
+        "Up to 5 automated processes",
+        "Basic analytics dashboard",
+        "Email support",
+        "Standard integrations"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "price": 2499,
+      "features": [
+        "Up to 25 automated processes",
+        "Advanced analytics & reporting",
+        "Priority support",
+        "Custom integrations",
+        "API access"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "features": [
+        "Unlimited automated processes",
+        "Real-time monitoring",
+        "24/7 dedicated support",
+        "On-premise deployment",
+        "Custom development"
+      ]
+    }
+  }
+}
